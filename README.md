@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3379-score-of-a-string](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/3412-permutation-difference-between-two-strings) |
+| [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Trie
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0940-fruit-into-baskets](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0940-fruit-into-baskets) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Prefix Sum
 |  |
 | ------- |
