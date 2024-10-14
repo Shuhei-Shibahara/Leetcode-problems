@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0654-maximum-binary-tree) |
 | [0940-fruit-into-baskets](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0940-fruit-into-baskets) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
+| [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1635-number-of-good-pairs](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1635-number-of-good-pairs) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0782-jewels-and-stones) |
 | [0940-fruit-into-baskets](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0940-fruit-into-baskets) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
+| [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1635-number-of-good-pairs](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1635-number-of-good-pairs) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/3412-permutation-difference-between-two-strings) |
 ## Math
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0011-container-with-most-water) |
+| [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 ## Sorting
 |  |
 | ------- |
