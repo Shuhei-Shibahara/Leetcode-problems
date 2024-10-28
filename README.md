@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0027-remove-element) |
 | [0057-insert-interval](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0057-insert-interval) |
+| [0088-merge-sorted-array](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0219-contains-duplicate-ii](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0283-move-zeroes) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0541-reverse-string-ii) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0621-task-scheduler](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0621-task-scheduler) |
 | [0941-sort-array-by-parity](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0941-sort-array-by-parity) |
 | [1014-k-closest-points-to-origin](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1014-k-closest-points-to-origin) |
