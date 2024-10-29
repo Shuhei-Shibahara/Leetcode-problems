@@ -1,22 +1,17 @@
 class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
-        # two pointer method
-        # we are going to iterate through the array 
-        # while checking with left pointer we will move the right one checking if it is a duplicate
-        #if it is a duplicate we will keep moving right 
-        #else we will move left pointer 1 and change that to the new number that we have
-        #at the end we will return l since that indicates k elemnts that are unique
+        #were going to use 2 pointer here
+        #we keep moving right pointer until we find one that is not identical to l pointer
+        #then we move left pointer 1 and then change that with the value of right pointer
+        #do this til end of the list
 
         l = 0
-        r = 1
 
-        while r < len(nums):
+        for r in range(len(nums)):
 
-            if nums[l] == nums[r]:
-                r += 1
-            else:
+            if nums[l] != nums[r]:
                 l += 1
                 nums[l] = nums[r]
-
-
+        
         return l + 1
+
