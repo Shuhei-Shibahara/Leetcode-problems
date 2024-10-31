@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0035-search-insert-position) |
 | [0057-insert-interval](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0057-insert-interval) |
 | [0088-merge-sorted-array](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0035-search-insert-position) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0792-binary-search](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0792-binary-search) |
 ## Data Stream
