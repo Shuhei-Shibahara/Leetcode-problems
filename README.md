@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1635-number-of-good-pairs](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1635-number-of-good-pairs) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0567-permutation-in-string) |
 | [0940-fruit-into-baskets](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0940-fruit-into-baskets) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
