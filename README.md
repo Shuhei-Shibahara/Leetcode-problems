@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1635-number-of-good-pairs](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1635-number-of-good-pairs) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1791-richest-customer-wealth) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0874-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1078-remove-outermost-parentheses) |
 | [1666-make-the-string-great](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1666-make-the-string-great) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1894-merge-strings-alternately](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1894-merge-strings-alternately) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2128-reverse-prefix-of-word](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2128-reverse-prefix-of-word) |
