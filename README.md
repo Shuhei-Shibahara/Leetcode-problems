@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2470-removing-stars-from-a-string](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2470-removing-stars-from-a-string) |
 | [3379-score-of-a-string](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/3412-permutation-difference-between-two-strings) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2128-reverse-prefix-of-word](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2128-reverse-prefix-of-word) |
+| [2470-removing-stars-from-a-string](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2470-removing-stars-from-a-string) |
 ## Linked List
 |  |
 | ------- |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2470-removing-stars-from-a-string](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2470-removing-stars-from-a-string) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Sliding Window
