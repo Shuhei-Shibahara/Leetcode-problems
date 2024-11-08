@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0941-sort-array-by-parity) |
 | [1014-k-closest-points-to-origin](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1014-k-closest-points-to-origin) |
+| [1019-squares-of-a-sorted-array](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1127-last-stone-weight](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1127-last-stone-weight) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0680-valid-palindrome-ii) |
 | [0874-backspace-string-compare](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0874-backspace-string-compare) |
 | [0941-sort-array-by-parity](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0941-sort-array-by-parity) |
+| [1019-squares-of-a-sorted-array](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0621-task-scheduler) |
 | [0941-sort-array-by-parity](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0941-sort-array-by-parity) |
 | [1014-k-closest-points-to-origin](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1014-k-closest-points-to-origin) |
+| [1019-squares-of-a-sorted-array](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2585-delete-greatest-value-in-each-row) |
