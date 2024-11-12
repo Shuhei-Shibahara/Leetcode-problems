@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0283-move-zeroes) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0367-valid-perfect-square) |
 | [1014-k-closest-points-to-origin](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1014-k-closest-points-to-origin) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0392-is-subsequence) |
