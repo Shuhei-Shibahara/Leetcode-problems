@@ -10,9 +10,8 @@ class Solution:
             total += nums[r]
 
             while total >= target:
-                # smallest = min(smallest, r - l + 1)
-                if r - l + 1 < smallest:
-                    smallest = r - l + 1
+                smallest = min(smallest, r - l + 1)
+
                 total -= nums[l]
                 l += 1
         
