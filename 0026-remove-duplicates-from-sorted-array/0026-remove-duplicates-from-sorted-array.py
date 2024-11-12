@@ -1,17 +1,15 @@
 class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
-        #were going to use 2 pointer here
-        #we keep moving right pointer until we find one that is not identical to l pointer
-        #then we move left pointer 1 and then change that with the value of right pointer
-        #do this til end of the list
+        #2pointer 
+        #l pointer will be moving once if finds a new non duplicate number
+        #r pointer will be the one searching for a new number that is non duplicate
 
         l = 0
 
-        for r in range(len(nums)):
+        for r in range(1,len(nums)):
 
-            if nums[l] != nums[r]:
+            if nums[r] != nums[l]:
                 l += 1
                 nums[l] = nums[r]
-        
-        return l + 1
 
+        return l + 1
