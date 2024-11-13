@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0441-arranging-coins) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0795-k-th-symbol-in-grammar) |
 | [1014-k-closest-points-to-origin](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1014-k-closest-points-to-origin) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0367-valid-perfect-square](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0441-arranging-coins) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0792-binary-search](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0792-binary-search) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1966-frequency-of-the-most-frequent-element) |
