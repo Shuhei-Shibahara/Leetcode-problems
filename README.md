@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0169-majority-element](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0219-contains-duplicate-ii) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0567-permutation-in-string) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0621-task-scheduler) |
 | [0917-boats-to-save-people](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0917-boats-to-save-people) |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0169-majority-element) |
 | [0654-maximum-binary-tree](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0654-maximum-binary-tree) |
 | [1014-k-closest-points-to-origin](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1014-k-closest-points-to-origin) |
 ## Tree
@@ -274,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0169-majority-element) |
 | [0621-task-scheduler](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0621-task-scheduler) |
 | [1635-number-of-good-pairs](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1635-number-of-good-pairs) |
 ## Heap (Priority Queue)
