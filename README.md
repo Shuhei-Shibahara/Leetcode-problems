@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1635-number-of-good-pairs](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1635-number-of-good-pairs) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1894-merge-strings-alternately](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0941-sort-array-by-parity) |
 | [1014-k-closest-points-to-origin](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2585-delete-greatest-value-in-each-row) |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0441-arranging-coins) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0792-binary-search](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0792-binary-search) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Data Stream
 |  |
