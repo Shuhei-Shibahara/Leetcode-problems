@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0654-maximum-binary-tree) |
 | [0682-baseball-game](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0792-binary-search) |
 | [0917-boats-to-save-people](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0917-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0940-fruit-into-baskets) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0654-maximum-binary-tree) |
 | [0682-baseball-game](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0874-backspace-string-compare) |
 | [0983-validate-stack-sequences](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0983-validate-stack-sequences) |
 | [1078-remove-outermost-parentheses](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1078-remove-outermost-parentheses) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0654-maximum-binary-tree](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0654-maximum-binary-tree) |
+| [0739-daily-temperatures](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0739-daily-temperatures) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Binary Tree
 |  |
