@@ -7,7 +7,7 @@ class Solution:
         stack = [] #[temp,i]
 
         for i, t in enumerate(temperatures):
-            while stack and stack[-1][0] <= t:
+            while stack and stack[-1][0] < t:
                 stackT, stackI = stack.pop()
                 res[stackI] = i - stackI
             
