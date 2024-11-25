@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0621-task-scheduler) |
 | [0654-maximum-binary-tree](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0654-maximum-binary-tree) |
+| [0658-find-k-closest-elements](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0735-asteroid-collision) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0680-valid-palindrome-ii) |
 | [0874-backspace-string-compare](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0908-middle-of-the-linked-list) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0621-task-scheduler) |
+| [0658-find-k-closest-elements](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0658-find-k-closest-elements) |
 | [0917-boats-to-save-people](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0941-sort-array-by-parity) |
 | [1014-k-closest-points-to-origin](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1014-k-closest-points-to-origin) |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0658-find-k-closest-elements) |
 | [0940-fruit-into-baskets](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0940-fruit-into-baskets) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -342,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0621-task-scheduler) |
+| [0658-find-k-closest-elements](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0658-find-k-closest-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1127-last-stone-weight) |
@@ -371,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0658-find-k-closest-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0792-binary-search](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0792-binary-search) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
