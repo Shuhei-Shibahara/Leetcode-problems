@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0303-range-sum-query-immutable) |
 | [0455-assign-cookies](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0724-find-pivot-index) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0303-range-sum-query-immutable) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0937-online-stock-span) |
 ## Binary Search Tree
