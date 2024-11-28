@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0058-length-of-last-word) |
+| [0071-simplify-path](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0071-simplify-path) |
 | [0205-isomorphic-strings](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0392-is-subsequence) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
