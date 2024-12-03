@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0941-sort-array-by-parity) |
 | [0983-validate-stack-sequences](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0983-validate-stack-sequences) |
+| [0990-verifying-an-alien-dictionary](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0990-verifying-an-alien-dictionary) |
 | [1014-k-closest-points-to-origin](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0621-task-scheduler) |
 | [0782-jewels-and-stones](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0782-jewels-and-stones) |
 | [0940-fruit-into-baskets](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0940-fruit-into-baskets) |
+| [0990-verifying-an-alien-dictionary](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0990-verifying-an-alien-dictionary) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1297-maximum-number-of-balloons) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0680-valid-palindrome-ii) |
 | [0782-jewels-and-stones](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0782-jewels-and-stones) |
 | [0874-backspace-string-compare](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0874-backspace-string-compare) |
+| [0990-verifying-an-alien-dictionary](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0990-verifying-an-alien-dictionary) |
 | [1078-remove-outermost-parentheses](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1078-remove-outermost-parentheses) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1297-maximum-number-of-balloons) |
