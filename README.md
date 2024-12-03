@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-validate-stack-sequences](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0983-validate-stack-sequences) |
 | [1014-k-closest-points-to-origin](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1127-last-stone-weight](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1127-last-stone-weight) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0621-task-scheduler) |
 | [0782-jewels-and-stones](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0782-jewels-and-stones) |
 | [0940-fruit-into-baskets](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0940-fruit-into-baskets) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1297-maximum-number-of-balloons) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0782-jewels-and-stones) |
 | [0874-backspace-string-compare](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0874-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1078-remove-outermost-parentheses) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1297-maximum-number-of-balloons) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1666-make-the-string-great](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1666-make-the-string-great) |
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0169-majority-element) |
 | [0621-task-scheduler](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0621-task-scheduler) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1297-maximum-number-of-balloons) |
 | [1635-number-of-good-pairs](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1635-number-of-good-pairs) |
 | [1708-design-parking-system](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1708-design-parking-system) |
