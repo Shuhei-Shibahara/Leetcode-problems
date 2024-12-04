@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0441-arranging-coins) |
+| [0492-construct-the-rectangle](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0492-construct-the-rectangle) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0795-k-th-symbol-in-grammar) |
 | [1014-k-closest-points-to-origin](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1014-k-closest-points-to-origin) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
