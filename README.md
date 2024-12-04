@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0492-construct-the-rectangle](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0492-construct-the-rectangle) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0795-k-th-symbol-in-grammar) |
 | [1014-k-closest-points-to-origin](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1014-k-closest-points-to-origin) |
+| [1236-n-th-tribonacci-number](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1236-n-th-tribonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1635-number-of-good-pairs) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0392-is-subsequence) |
+| [1236-n-th-tribonacci-number](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1236-n-th-tribonacci-number) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Interactive
@@ -484,4 +486,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1039-find-the-town-judge](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1039-find-the-town-judge) |
+## Memoization
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
