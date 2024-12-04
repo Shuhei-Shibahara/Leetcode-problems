@@ -1,7 +1,8 @@
 class Solution:
     def addDigits(self, num: int) -> int:
-        # Continue summing digits until a single-digit number is obtained
-        while num >= 10:
-            num = sum(int(digit) for digit in str(num))
+        # If the number is 0, return 0
+        if num == 0:
+            return 0
         
-        return num
+        # Digital root calculation
+        return 1 + (num - 1) % 9
