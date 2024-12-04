@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1635-number-of-good-pairs](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1635-number-of-good-pairs) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/3412-permutation-difference-between-two-strings) |
 ## Math
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Prefix Sum
