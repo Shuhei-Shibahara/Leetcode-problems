@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0303-range-sum-query-immutable) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0290-word-pattern) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0658-find-k-closest-elements) |
