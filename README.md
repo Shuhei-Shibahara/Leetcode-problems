@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [0816-design-hashset](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0816-design-hashset) |
 | [0908-middle-of-the-linked-list](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0908-middle-of-the-linked-list) |
+| [1765-merge-in-between-linked-lists](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1765-merge-in-between-linked-lists) |
 ## Recursion
 |  |
 | ------- |
