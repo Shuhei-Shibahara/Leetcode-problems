@@ -7,13 +7,13 @@ class Solution:
             if total == target:
                 res.append(cur.copy())
                 return
+            
             if total > target or i == len(candidates):
-                return
+                return 
             
             cur.append(candidates[i])
-            dfs(i + 1, cur, total + candidates[i])
+            dfs(i+1, cur, candidates[i] + total)
             cur.pop()
-
             
             while i + 1 < len(candidates) and candidates[i] == candidates[i+1]:
                 i += 1
@@ -21,3 +21,4 @@ class Solution:
             
         dfs(0, [], 0)
         return res
+
