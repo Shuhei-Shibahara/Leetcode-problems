@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2128-reverse-prefix-of-word](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2128-reverse-prefix-of-word) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2470-removing-stars-from-a-string) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2573-remove-nodes-from-linked-list) |
 ## Linked List
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0816-design-hashset) |
 | [0908-middle-of-the-linked-list](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0908-middle-of-the-linked-list) |
 | [1765-merge-in-between-linked-lists](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1765-merge-in-between-linked-lists) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2573-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
