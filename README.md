@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1547-destination-city](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1547-destination-city) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-balloons](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1297-maximum-number-of-balloons) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [1547-destination-city](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1547-destination-city) |
 | [1635-number-of-good-pairs](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1635-number-of-good-pairs) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1078-remove-outermost-parentheses) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1297-maximum-number-of-balloons) |
+| [1547-destination-city](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1547-destination-city) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1666-make-the-string-great](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1666-make-the-string-great) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
