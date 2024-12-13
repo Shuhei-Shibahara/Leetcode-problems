@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0219-contains-duplicate-ii) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0463-island-perimeter) |
 | [1791-richest-customer-wealth](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1791-richest-customer-wealth) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2585-delete-greatest-value-in-each-row) |
@@ -504,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
 ## Backtracking
@@ -527,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0101-symmetric-tree) |
+| [0200-number-of-islands](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0463-island-perimeter) |
 ## Graph
 |  |
@@ -544,4 +548,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0816-design-hashset) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
