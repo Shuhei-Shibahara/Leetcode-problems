@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1039-find-the-town-judge) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1127-last-stone-weight](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1127-last-stone-weight) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-verifying-an-alien-dictionary](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0990-verifying-an-alien-dictionary) |
 | [1039-find-the-town-judge](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1039-find-the-town-judge) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1297-maximum-number-of-balloons](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1297-maximum-number-of-balloons) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0169-majority-element) |
 | [0621-task-scheduler](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0621-task-scheduler) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1297-maximum-number-of-balloons](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1297-maximum-number-of-balloons) |
 | [1635-number-of-good-pairs](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1635-number-of-good-pairs) |
 | [1708-design-parking-system](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1708-design-parking-system) |
