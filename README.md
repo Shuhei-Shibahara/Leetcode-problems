@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2470-removing-stars-from-a-string) |
 | [3379-score-of-a-string](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/3412-permutation-difference-between-two-strings) |
+| [3447-clear-digits](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/3447-clear-digits) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Trie
 |  |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2470-removing-stars-from-a-string) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2573-remove-nodes-from-linked-list) |
+| [3447-clear-digits](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/3447-clear-digits) |
 ## Linked List
 |  |
 | ------- |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2470-removing-stars-from-a-string](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2470-removing-stars-from-a-string) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2585-delete-greatest-value-in-each-row) |
+| [3447-clear-digits](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Sliding Window
 |  |
