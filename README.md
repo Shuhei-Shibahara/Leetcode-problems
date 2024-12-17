@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0605-can-place-flowers](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0621-task-scheduler) |
+| [0645-set-mismatch](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0645-set-mismatch) |
 | [0654-maximum-binary-tree](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0654-maximum-binary-tree) |
 | [0658-find-k-closest-elements](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0682-baseball-game) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0621-task-scheduler) |
+| [0645-set-mismatch](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0782-jewels-and-stones) |
 | [0816-design-hashset](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0816-design-hashset) |
 | [0940-fruit-into-baskets](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0940-fruit-into-baskets) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0621-task-scheduler) |
+| [0645-set-mismatch](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0658-find-k-closest-elements) |
 | [0917-boats-to-save-people](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0941-sort-array-by-parity) |
@@ -501,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0645-set-mismatch) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0795-k-th-symbol-in-grammar) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Depth-First Search
