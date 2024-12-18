@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1635-number-of-good-pairs) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2556-convert-the-temperature](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2556-convert-the-temperature) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2812-find-the-maximum-achievable-number) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2470-removing-stars-from-a-string](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2470-removing-stars-from-a-string) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3447-clear-digits](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/3447-clear-digits) |
