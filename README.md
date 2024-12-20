@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0654-maximum-binary-tree) |
 | [0658-find-k-closest-elements](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0682-baseball-game) |
+| [0695-max-area-of-island](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0739-daily-temperatures) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0695-max-area-of-island) |
 | [1791-richest-customer-wealth](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1791-richest-customer-wealth) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Divide and Conquer
@@ -539,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0695-max-area-of-island) |
 ## Backtracking
 |  |
 | ------- |
@@ -564,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0695-max-area-of-island) |
 ## Graph
 |  |
 | ------- |
@@ -584,4 +588,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
