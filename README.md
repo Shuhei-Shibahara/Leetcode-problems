@@ -460,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1127-last-stone-weight) |
 | [1762-furthest-building-you-can-reach](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1762-furthest-building-you-can-reach) |
+| [1955-seat-reservation-manager](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1955-seat-reservation-manager) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Queue
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0816-design-hashset) |
 | [0937-online-stock-span](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0937-online-stock-span) |
 | [1708-design-parking-system](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1708-design-parking-system) |
+| [1955-seat-reservation-manager](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1955-seat-reservation-manager) |
 ## Binary Search Tree
 |  |
 | ------- |
