@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2585-delete-greatest-value-in-each-row) |
+| [2728-sum-in-a-matrix](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2728-sum-in-a-matrix) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2585-delete-greatest-value-in-each-row) |
+| [2728-sum-in-a-matrix](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2728-sum-in-a-matrix) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Simulation
 |  |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2470-removing-stars-from-a-string](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2470-removing-stars-from-a-string) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2585-delete-greatest-value-in-each-row) |
+| [2728-sum-in-a-matrix](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2728-sum-in-a-matrix) |
 | [3447-clear-digits](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Sliding Window
@@ -400,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0695-max-area-of-island) |
 | [1791-richest-customer-wealth](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1791-richest-customer-wealth) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2585-delete-greatest-value-in-each-row) |
+| [2728-sum-in-a-matrix](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2728-sum-in-a-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -463,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1762-furthest-building-you-can-reach](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1762-furthest-building-you-can-reach) |
 | [1955-seat-reservation-manager](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1955-seat-reservation-manager) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2585-delete-greatest-value-in-each-row) |
+| [2728-sum-in-a-matrix](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2728-sum-in-a-matrix) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Queue
 |  |
