@@ -10,17 +10,13 @@ class Solution:
             val1 = l1.val if l1 else 0
             val2 = l2.val if l2 else 0
             
-            # Sum the values along with any carry-over from the previous step
             total = val1 + val2 + remainder
             
-            # Update the remainder (carry) for the next iteration
             remainder = total // 10
             current.next = ListNode(total % 10)
             
-            # Move the current pointer to the new node
             current = current.next
             
-            # Move l1 and l2 to their next nodes if available
             if l1: 
                 l1 = l1.next
             if l2:
