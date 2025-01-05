@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0303-range-sum-query-immutable) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0492-construct-the-rectangle) |
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0645-set-mismatch) |
@@ -503,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0162-find-peak-element](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0441-arranging-coins) |
@@ -544,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0645-set-mismatch) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0795-k-th-symbol-in-grammar) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
