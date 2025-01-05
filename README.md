@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1236-n-th-tribonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1635-number-of-good-pairs) |
+| [1806-count-of-matches-in-tournament](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1806-count-of-matches-in-tournament) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-validate-stack-sequences](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0983-validate-stack-sequences) |
 | [1708-design-parking-system](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1708-design-parking-system) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1806-count-of-matches-in-tournament](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1806-count-of-matches-in-tournament) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2058-concatenation-of-array) |
