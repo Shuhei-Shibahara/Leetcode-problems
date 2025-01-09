@@ -1,5 +1,7 @@
 class Solution:
     def rearrangeArray(self, nums: List[int]) -> List[int]:
+        #we can use 2 pointer here
+        #we can sort and put into a array alternating smaller number and larger number 
         nums.sort()
         res = []
 
