@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0202-happy-number) |
@@ -540,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -608,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0070-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1236-n-th-tribonacci-number) |
 ## Number Theory
 |  |
