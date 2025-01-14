@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2728-sum-in-a-matrix](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2728-sum-in-a-matrix) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2032-largest-odd-number-in-string](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2032-largest-odd-number-in-string) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Sorting
 |  |
 | ------- |
