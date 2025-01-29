@@ -1,5 +1,8 @@
 class Solution:
     def islandPerimeter(self, grid: List[List[int]]) -> int:
+        #we need to find the first island 
+        #count every single time that is outside of island and count that 
+        
         rows, cols = len(grid), len(grid[0])
         visit = set()
 
