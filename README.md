@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0463-island-perimeter) |
+| [0494-target-sum](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0605-can-place-flowers](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0605-can-place-flowers) |
@@ -562,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0392-is-subsequence) |
+| [0494-target-sum](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0494-target-sum) |
 | [1236-n-th-tribonacci-number](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1236-n-th-tribonacci-number) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -600,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0046-permutations) |
+| [0494-target-sum](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1160-letter-tile-possibilities) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
