@@ -8,7 +8,8 @@ class Solution:
             
             if changed:
                 return False
-            
+            # we want to decrese left element
+            #[3,4,2]
             if i == 0 or nums[i+1] >= nums[i-1]:
                 nums[i] = nums[i+1]
             else:
