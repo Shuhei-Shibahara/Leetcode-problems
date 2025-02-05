@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0492-construct-the-rectangle) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0394-decode-string) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0795-k-th-symbol-in-grammar) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2573-remove-nodes-from-linked-list) |
@@ -575,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0645-set-mismatch) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0795-k-th-symbol-in-grammar) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
