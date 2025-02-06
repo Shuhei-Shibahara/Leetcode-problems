@@ -5,11 +5,10 @@ class Solution:
 
         for i in nums:
             count[i] += 1
-        print(count)
+
         extra = 0
         none = 0
         for i in range(1, len(count)):
-            print(count[i])
             if count[i] == 2:
                 extra = i
             if count[i] == 0:
