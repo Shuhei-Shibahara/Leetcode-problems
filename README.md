@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1635-number-of-good-pairs](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1635-number-of-good-pairs) |
+| [1677-matrix-diagonal-sum](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1677-matrix-diagonal-sum) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1762-furthest-building-you-can-reach](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1762-furthest-building-you-can-reach) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0695-max-area-of-island) |
 | [0898-transpose-matrix](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0898-transpose-matrix) |
 | [0971-shortest-bridge](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0971-shortest-bridge) |
+| [1677-matrix-diagonal-sum](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1791-richest-customer-wealth) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2728-sum-in-a-matrix](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/2728-sum-in-a-matrix) |
