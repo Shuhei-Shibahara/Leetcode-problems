@@ -6,7 +6,8 @@
 #         self.right = right
 class Solution:
     def hasPathSum(self, root: Optional[TreeNode], targetSum: int) -> bool:
-
+        #O(n)
+        #o(n)
         def dfs(node,curSum):
             if not node:
                 return False
