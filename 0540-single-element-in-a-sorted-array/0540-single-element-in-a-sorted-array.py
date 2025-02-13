@@ -4,7 +4,7 @@ class Solution:
         r = len(nums) - 1
 
         while l <= r:
-            mid = l + ((r-l)//2)
+            mid = l + ((r-l)//2) #this is the better way to find mid point
             if ((mid + 1 == len(nums) or nums[mid] != nums[mid + 1]) and (mid - 1 < 0 or nums[mid] != nums[mid-1])):
                 return nums[mid]
 
