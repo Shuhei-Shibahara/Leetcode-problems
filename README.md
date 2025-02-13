@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0202-happy-number) |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -547,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0035-search-insert-position) |
+| [0096-unique-binary-search-trees](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0162-find-peak-element](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
@@ -579,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
