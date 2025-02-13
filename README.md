@@ -469,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0654-maximum-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0904-leaf-similar-trees](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Monotonic Stack
 |  |
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0654-maximum-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0904-leaf-similar-trees](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Counting
 |  |
@@ -613,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0695-max-area-of-island) |
+| [0904-leaf-similar-trees](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0904-leaf-similar-trees) |
 | [0971-shortest-bridge](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/0971-shortest-bridge) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Shuhei-Shibahara/Leetcode-problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Backtracking
