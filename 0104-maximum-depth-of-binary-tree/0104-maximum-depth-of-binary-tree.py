@@ -6,6 +6,8 @@
 #         self.right = right
 class Solution:
     def maxDepth(self, root: Optional[TreeNode]) -> int:
+        #we can make a recursive call and keep adding 1 whenever we go down a child
+        
         if not root:
             return 0
         
