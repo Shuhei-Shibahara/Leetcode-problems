@@ -1,8 +1,8 @@
 class Solution:
     def addDigits(self, num: int) -> int:
-        # If the number is 0, return 0
-        if num == 0:
-            return 0
-        
-        # Digital root calculation
-        return 1 + (num - 1) % 9
+        while num >= 10:
+            a = num // 10
+            b = num % 10
+            print(a,b)
+            num = a + b
+        return num
