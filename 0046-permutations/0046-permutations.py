@@ -1,5 +1,9 @@
 class Solution:
     def permute(self, nums: List[int]) -> List[List[int]]:
+        #using recursion
+        #basecase would be an empty array
+        #keep appending the number in every possible position
+        
         if len(nums) == 0:
             return [[]]
         
